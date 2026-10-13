@@ -1,0 +1,8 @@
+{
+  "name": "PastelChef 🎂 ¡Juego de Crear Pasteles!",
+  "description": "¡Juego didáctico y divertido para crear pasteles por capas paso a paso! Personaliza forma, bizcocho, relleno, glaseado y decoraciones con carrusel interactivo y diplomas en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
